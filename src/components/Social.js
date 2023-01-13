@@ -6,8 +6,8 @@ export const Social = () => {
         <Container>
             <Link href="https://www.linkedin.com/in/valentinabearzotti/">LinkedIn</Link>
             <Link href="https://github.com/valebearzotti">GitHub</Link>
-            <Link href="https://twitter.com/valentinabrzt">Twitter</Link>
-            <Link href="https://www.instagram.com/valentinabrzt/">Instagram</Link>
+            <Link href="https://twitter.com/valebearzotti">Twitter</Link>
+            <Link href="https://www.instagram.com/valebearzotti/">Instagram</Link>
         </Container>
     )
 }
